@@ -152,6 +152,7 @@ function reiniciarJogo() {
 - Adicionada a funcionalidade de sorteio de amigos.
 - Implementada a funcionalidade de reinício de jogo.
 - Melhorias na validação dos nomes e layout.
+- Mudanças de interações com botões.
 
 ---
 
